@@ -1,4 +1,2 @@
-# UTS
-Muhamad Sakti Ababil
+uas
 
-16240000595
